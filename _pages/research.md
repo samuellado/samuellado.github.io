@@ -43,7 +43,7 @@ Ayllón, S.; Barbovschi, M.; Casamassima, G.; Drossel, K.; Eickelmann, B.; Cosmi
 
 ## Other publications
 
-Ayllón, S.; Casamassima, G.; Drossel, K.; Eickelmann, B.; Hyggen, C.; Lado, S.; Port, S.; Broekstra, N. (2021). Digital diversity across Europe, DigiGen Policy paper. [[pdf]](https://www.digigen.eu/results/digital-diversity-across-europe/)
+Ayllón, S.; Casamassima, G.; Drossel, K.; Eickelmann, B.; Hyggen, C.; Lado, S.; Port, S.; Broekstra, N. (2021). Digital diversity across Europe, DigiGen Policy paper. [[pdf]](https://www.digigen.eu/wp-content/uploads/2021/09/DigiGen-policy-brief-digital-diversity-across-Europe.pdf)
 
 Lado, S. (2021). Desigualtat, individualisme i col.lectivisme, DUGiDocs. [in Catalan] [[pdf]](https://dugi-doc.udg.edu/bitstream/handle/10256/19441/Lado-Franco%20%28Economia%29.pdf?sequence=1&isAllowed=y)
 
