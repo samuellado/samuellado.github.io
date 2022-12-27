@@ -11,6 +11,7 @@ Research
 Ayllón, S.; Lado, S. (2022). Food hardship in the US during the pandemic: What can we learn from real-time data?, Review of Income and Wealth, 68(2): 518-540. DOI: [https://doi.org/10.1111/roiw.12564] (https://doi.org/10.1111/roiw.12564).
 <details>
 <summary>Abstract</summary>
+  
 We study the potential effect of the declaration of the state of emergency, the beginning and end of the stay-at-home orders, and the one-off Economic Impact Payments on food hardship in the US during the first wave of the coronavirus pandemic. We use daily data from Google Trends for the search term “foodbank” and document the development of a hunger crisis, as indicated by the number of individuals who need to locate a food pantry through the internet. The demand for charitable food handouts begins to decrease once families start receiving the stimulus payments, but the biggest fall comes when economic activity resumes after the lifting of the lockdown orders. Our estimates indicate that the increased need for emergency help among vulnerable families lasted for at least 10 weeks during the first wave of the pandemic, and we argue that real-time data can be useful in predicting such urgency.
 </details>
 
