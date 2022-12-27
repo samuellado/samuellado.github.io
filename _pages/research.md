@@ -13,7 +13,7 @@ Ayllón, S.; Lado, S. (2022). Food hardship in the US during the pandemic: What 
   
 We study the potential effect of the declaration of the state of emergency, the beginning and end of the stay-at-home orders, and the one-off Economic Impact Payments on food hardship in the US during the first wave of the coronavirus pandemic. We use daily data from Google Trends for the search term “foodbank” and document the development of a hunger crisis, as indicated by the number of individuals who need to locate a food pantry through the internet. The demand for charitable food handouts begins to decrease once families start receiving the stimulus payments, but the biggest fall comes when economic activity resumes after the lifting of the lockdown orders. Our estimates indicate that the increased need for emergency help among vulnerable families lasted for at least 10 weeks during the first wave of the pandemic, and we argue that real-time data can be useful in predicting such urgency.
 </details>
-
+<br>
 
 Ayllón, S.; Holmarsdottir, H. B.; Lado, S. (2021). Digitally deprived children in Europe, Child Indicators Research, forthcoming. [[pdf]](https://www.digigen.eu/wp-content/uploads/2021/03/Digitally-deprived-children-in-Europe-DigiGen-working-paper-series-no.-3.pdf)
 <details>
