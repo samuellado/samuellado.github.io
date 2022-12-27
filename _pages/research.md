@@ -29,6 +29,12 @@ Ayllón, S.; Lado, S.; Symeonaki, M. (2023). Digitally disengaged and digitally 
 
 ## Reports
 
+Ayllón, S.; Brugarolas, P.; Lado, S. (2022). La transmisión intergeneracional de la pobreza y la desigualdad de oportunidades en España. Ministerio de Derechos Sociales y Agenda 2030. [in Spanish] [pdf]
+
+Sánchez, C.; Marquès, P.; Lado, S.; Bikflavi, A. (2022). Guia de bones pràctiques per a la igualtat de gènere a la indústria agroalimentària. Departament d’Acció Climàtica, Alimentació i Agenda Rural, Generalitat de Catalunya. [in Catalan] [pdf]
+
+Sánchez, C.; Marquès, P.; Lado, S.; Lloveras, N. (2021). La dona a la indústria alimentària a Catalunya. Departament Agricultura, Ramaderia, Pesca i Alimentació, Generalitat de Catalunya. [in Catalan] [pdf]
+
 ## Working papers
 
 ## Other publications
