@@ -20,6 +20,4 @@ The COVID-19 pandemic has completely changed the need for internet connectivity 
 </details>
 <br>
 
----
-Book chapters
-======
+## Book chapters
