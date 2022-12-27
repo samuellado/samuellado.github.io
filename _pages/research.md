@@ -3,8 +3,10 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-Articles in academic journals
+Research
 ======
+
+## Articles in academic journals
 
 Ayllón, S.; Lado, S. (2022). Food hardship in the US during the pandemic: What can we learn from real-time data?, Review of Income and Wealth, 68(2): 518-540. DOI: [https://doi.org/10.1111/roiw.12564] (https://doi.org/10.1111/roiw.12564).
 <details>
@@ -21,3 +23,13 @@ The COVID-19 pandemic has completely changed the need for internet connectivity 
 <br>
 
 ## Book chapters
+
+Ayllón, S.; Brugarolas, P.; Lado, S. (2023). ICT use and children’s self-reported life satisfaction in Understanding the everyday digital lives of children and young people, ed. H. B. Holmarsdottir, I. Seland, C. Hyggen, M. Roth. Palgrave Macmillan, forthcoming.
+
+Ayllón, S.; Lado, S.; Symeonaki, M. (2023). Digitally disengaged and digitally unconfident children in Europe in Understanding the everyday digital lives of children and young people, ed. H. B. Holmarsdottir, I. Seland, C. Hyggen, M. Roth. Palgrave Macmillan, forthcoming.
+
+## Reports
+
+# Working papers
+
+## Other publications
