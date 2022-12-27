@@ -7,7 +7,7 @@ Research
 ======
 
 ## Articles in academic journals
-Ayllón, S.; Lado, S. (2022). Food hardship in the US during the pandemic: What can we learn from real-time data?, Review of Income and Wealth, 68(2): 518-540. [DOI: https://doi.org/10.1111/roiw.12564]](https://doi.org/10.1111/roiw.12564) [[pdf]](https://onlinelibrary.wiley.com/doi/epdf/10.1111/roiw.12564)
+Ayllón, S.; Lado, S. (2022). Food hardship in the US during the pandemic: What can we learn from real-time data?, Review of Income and Wealth, 68(2): 518-540. [DOI: https://doi.org/10.1111/roiw.12564](https://doi.org/10.1111/roiw.12564) [[pdf]](https://onlinelibrary.wiley.com/doi/epdf/10.1111/roiw.12564)
 <details>
 <summary>Abstract</summary>
   
