@@ -6,7 +6,7 @@ author_profile: true
 Research
 ======
 
-## Articles in academic journals
+## Journal publications
 Ayllón, S.; Lado, S. (2022). Food hardship in the US during the pandemic: What can we learn from real-time data?, Review of Income and Wealth, 68(2): 518-540. [[pdf]](https://onlinelibrary.wiley.com/doi/epdf/10.1111/roiw.12564)
 <details>
 <summary>Abstract</summary>
@@ -21,7 +21,7 @@ Ayllón, S.; Holmarsdottir, H. B.; Lado, S. (2021). Digitally deprived children 
 The COVID-19 pandemic has completely changed the need for internet connectivity and technologicaldevices across the population, but especially among school-aged children. For alarge proportion of pupils,access to a connected computer nowadays makes the difference between being able to keep up with theireducational development and falling badly behind. This paper provides a detailed account of the digitallydeprived children inEurope, according to the latest available wave of the European Union–Statistics onIncome and Living Conditions (EU-SILC). We find that 5.4% of school-aged children in Europe aredigitally deprived and that differences are large across countries. Children that cohabit with low-educatedparents, in poverty or in severe material deprivation are those most affected.
 </details>
 
-## Book chapters
+## Chapters in edited volumes
 
 Ayllón, S.; Brugarolas, P.; Lado, S. (2023). ICT use and children’s self-reported life satisfaction in Understanding the everyday digital lives of children and young people, ed. H. B. Holmarsdottir, I. Seland, C. Hyggen, M. Roth, Palgrave Macmillan, forthcoming.
 
