@@ -1,7 +1,7 @@
 ---
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 ---
-
-{% include base_path %}
+CV
+======
