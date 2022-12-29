@@ -14,4 +14,4 @@ CV
 [See my CV here](http://samuellado.github.io/files/CV_SL_eng.pdf) 
 
 
-<embed src="http://samuellado.github.io/files/CV_SL_eng.pdf" type="application/pdf" width="100%" />
+<embed src="https://samuellado.github.io/files/CV_SL_eng.pdf" type="application/pdf" />
