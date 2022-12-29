@@ -1,15 +1,17 @@
+---
 layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /wordpress/cv/
+  - /resume
 ---
+CV
+======
 
 {% include base_path %}
-{% capture written_label %}'None'{% endcapture %}
 
-If the embedded PDF below does not load, you can <u><a href="http://samuellado.github.io/files/CV_SL_eng.pdf">download it here.</a></u>
-<br/>
+[See my CV here](http://samuellado.github.io/files/CV_SL_eng.pdf.pdf) 
+
 
 <embed src="http://samuellado.github.io/files/CV_SL_eng.pdf" type="application/pdf" width="100%" />
