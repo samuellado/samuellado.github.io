@@ -24,7 +24,7 @@ Ayllón, S.; Lado, S.; Symeonaki, M. (2023). Digitally disengaged and digitally 
 
 ## Reports
 
-Ayllón, S.; Brugarolas, P.; Lado, S. (2022). La transmisión intergeneracional de la pobreza y la desigualdad de oportunidades en España, Ministerio de Derechos Sociales y Agenda 2030. [in Spanish] [[pdf]](http://www.saraayllon.eu/uploads/4/2/7/7/42775099/transmisi%C3%B3n_intergeneracional_pobreza_ayll%C3%B3n_brugarolas_lado_julio2022.pdf)
+Ayllón, S.; Brugarolas, P.; Lado, S. (2022). La transmisión intergeneracional de la pobreza y la desigualdad de oportunidades en España, Ministerio de Derechos Sociales y Agenda 2030. [in Spanish] [[pdf]] (https://dugi-doc.udg.edu/bitstream/handle/10256/22795/Transmision_intergeneracional_pobreza_Ayllon_Brugarolas_Lado_julio2022.pdf?sequence=1)
 
 Sánchez, C.; Marquès, P.; Lado, S.; Bikflavi, A. (2022). Guia de bones pràctiques per a la igualtat de gènere a la indústria agroalimentària, Departament d’Acció Climàtica, Alimentació i Agenda Rural, Generalitat de Catalunya. [in Catalan] [[pdf]](https://agricultura.gencat.cat/web/.content/01-departament/politiques-dones/enllacos-documents/fitxers-binaris/guia-bones-practiques-igualtat-2021.pdf)
 
