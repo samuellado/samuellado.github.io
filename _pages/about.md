@@ -52,3 +52,7 @@ Ayllón, S.; Barbovschi, M.; Casamassima, G.; Drossel, K.; Eickelmann, B.; Cosmi
 Ayllón, S.; Casamassima, G.; Drossel, K.; Eickelmann, B.; Hyggen, C.; Lado, S.; Port, S.; Broekstra, N. (2021). Digital diversity across Europe, DigiGen Policy paper. [[pdf]](https://www.digigen.eu/wp-content/uploads/2021/09/DigiGen-policy-brief-digital-diversity-across-Europe.pdf)
 
 Lado, S. (2021). Desigualtat, individualisme i col.lectivisme, DUGiDocs. [in Catalan] [[pdf]](https://dugi-doc.udg.edu/bitstream/handle/10256/19441/Lado-Franco%20%28Economia%29.pdf?sequence=1&isAllowed=y)
+
+Lado, S. (2021). Externalització de serveis públics: la casuística de l’administració local, DUGiDocs. [in Catalan] [[pdf]](https://dugi-doc.udg.edu/bitstream/handle/10256/19440/Lado-Franco%20%28ADE%29.pdf?sequence=1&isAllowed=y) 
+
+Blanco, M.; Ventura, J; Lado, S.; Sastre, M.; Callado, J. F.; Xabadia, A.; Marquès, P. (2019). Girona 100 SA 2019, KPMG i Càtedra de l'Empresa Familiar. [in Catalan] [[pdf]](https://assets.kpmg/content/dam/kpmg/es/pdf/2019/07/InformeGirona100_2019.pdf)
