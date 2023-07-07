@@ -32,6 +32,9 @@ Sánchez, C.; Marquès, P.; Lado, S.; Lloveras, N. (2021). La dona a la indústr
 
 ## Working papers
 
+Ayllón, S.; Brugarolas, P.; Lado, S. (2023). The level of inequality of opportunity in
+Spain: an estimation using Articial Intelligence, Instituto de Estudios Fiscales.
+
 Parsanoglou, D.; Mifsud, L.; Ayllón, S.; Brugarolas, P.; Filandrianos, G.; Hyggen, C.; Kazani, A.; Lado, S.; Symeonaki, M.; Andreassen, K. J. (2022). Combining innovative methodological tools to approach digital transformations in leisure among children and young people, DigiGen working paper series. [[pdf]](https://www.digigen.eu/wp-content/uploads/2022/05/DigiGen-working-paper-9-website.pdf) 
 
 Ayllón, S.; Barbovschi, M.; Casamassima, G.; Drossel, K.; Eickelmann, B.; Cosmin Ghetau, T.; Haragus, P; Bjork Holmarsdottir, H.; Hyggen, C.; Kapella, O.; Karatzogianni, A.; Lado, S.; Levine, D.; Lorenz, T.; Mifsud, L.; Parsanoglou, D; Port, S.; Sisask, M.; Symeonaki, M.; Teidla-Kunitson, G. (2020). ICT usage across Europe. A literature review and an overview of existing data, DigiGen working paper series. [[pdf]](https://www.digigen.eu/wp-content/uploads/2021/02/DigiGen_ICT-usage-across-Europe_a-literature-review-and-an-overview-of-existing-data.pdf)
