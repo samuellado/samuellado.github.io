@@ -41,7 +41,7 @@ Sánchez, C.; Marquès, P.; Lado, S.; Lloveras, N. (2021). La dona a la indústr
 
 ## Working papers
 
-Ayllón, S.; Brugarolas, P.; Lado, S. (2023). The level of inequality of opportunity in Spain: an estimation using Artificial Intelligence, Instituto de Estudios Fiscales.
+Ayllón, S.; Brugarolas, P.; Lado, S. (2023). The level of inequality of opportunity in Spain: an estimation using Artificial Intelligence, Instituto de Estudios Fiscales. Media coverage: [El Confidencial](https://www.elconfidencial.com/economia/2023-07-16/estudio-hacienda-constata-deterioro-meritocracia_3701234/?utm_source=twitter&utm_medium=social&utm_campaign=ECNocheAutomatico&s=08)
 
 Parsanoglou, D.; Mifsud, L.; Ayllón, S.; Brugarolas, P.; Filandrianos, G.; Hyggen, C.; Kazani, A.; Lado, S.; Symeonaki, M.; Andreassen, K. J. (2022). Combining innovative methodological tools to approach digital transformations in leisure among children and young people, DigiGen working paper series. [[pdf]](https://www.digigen.eu/wp-content/uploads/2022/05/DigiGen-working-paper-9-website.pdf) 
 
