@@ -56,3 +56,9 @@ Lado, S. (2021). Desigualtat, individualisme i col.lectivisme, DUGiDocs. [in Cat
 Lado, S. (2021). Externalització de serveis públics: la casuística de l’administració local, DUGiDocs. [in Catalan] [[pdf]](https://dugi-doc.udg.edu/bitstream/handle/10256/19440/Lado-Franco%20%28ADE%29.pdf?sequence=1&isAllowed=y) 
 
 Blanco, M.; Ventura, J; Lado, S.; Sastre, M.; Callado, J. F.; Xabadia, A.; Marquès, P. (2019). Girona 100 SA 2019, KPMG i Càtedra Cambra de l’Empresa Familiar. [in Catalan] [[pdf]](https://assets.kpmg/content/dam/kpmg/es/pdf/2019/07/InformeGirona100_2019.pdf)
+
+## Work in progress
+
+Subsidised school meals and child well-being: the case of Barcelona (With Sara Ayllón)
+
+Examining the impact of school-meal programmes on children: A meta-analysis (With Sara Ayllón)
