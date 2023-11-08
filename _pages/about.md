@@ -17,7 +17,7 @@ My research interests include poverty, inequality, applied microeconomics, publi
 
 ## Journal publications
 
-Ayllón, S.; Holmarsdottir, H. B.; Lado, S. (2023). Digitally deprived children in Europe, Child Indicators Research, forthcoming. [[pdf]](https://link.springer.com/content/pdf/10.1007/s12187-022-10006-w.pdf?pdf=button%20sticky)
+Ayllón, S.; Holmarsdottir, H. B.; Lado, S. (2023). Digitally deprived children in Europe, Child Indicators Research, 16: 1315-1339.. [[pdf]](https://link.springer.com/content/pdf/10.1007/s12187-022-10006-w.pdf?pdf=button%20sticky)
 
 - The COVID-19 pandemic has completely changed the need for internet connectivity and technological devices across the population, but especially among school-aged children. For a large proportion of pupils, access to a connected computer nowadays makes the difference between being able to keep up with their educational development and falling badly behind. This paper provides a detailed account of the digitally deprived children in Europe, according to the latest available wave of the European Union–Statistics on Income and Living Conditions (EU-SILC). We find that 5.4% of school-aged children in Europe are digitally deprived and that differences are large across countries. Children that cohabit with low-educated parents, in poverty or in severe material deprivation are those most affected.
 
@@ -35,7 +35,7 @@ Ayllón, S.; Lado, S.; Symeonaki, M. (2023). Digitally disengaged and digitally 
 
 Ayllón, S.; Brugarolas, P.; Lado, S. (2022). La transmisión intergeneracional de la pobreza y la desigualdad de oportunidades en España, Ministerio de Derechos Sociales y Agenda 2030. [in Spanish] [[pdf]](https://dugi-doc.udg.edu/bitstream/handle/10256/22795/Transmision_intergeneracional_pobreza_Ayllon_Brugarolas_Lado_julio2022.pdf?sequence=1)
 
-Sánchez, C.; Marquès, P.; Lado, S.; Bikflavi, A. (2022). Guia de bones pràctiques per a la igualtat de gènere a la indústria agroalimentària, Departament d’Acció Climàtica, Alimentació i Agenda Rural, Generalitat de Catalunya. [in Catalan] [[pdf]](https://agricultura.gencat.cat/web/.content/01-departament/politiques-dones/enllacos-documents/fitxers-binaris/guia-bones-practiques-igualtat-2021.pdf)
+Sánchez, C.; Marquès, P.; Lado, S.; Bikfalvi, A. (2022). Guia de bones pràctiques per a la igualtat de gènere a la indústria agroalimentària, Departament d’Acció Climàtica, Alimentació i Agenda Rural, Generalitat de Catalunya. [in Catalan] [[pdf]](https://agricultura.gencat.cat/web/.content/01-departament/politiques-dones/enllacos-documents/fitxers-binaris/guia-bones-practiques-igualtat-2021.pdf)
 
 Sánchez, C.; Marquès, P.; Lado, S.; Lloveras, N. (2021). La dona a la indústria alimentària a Catalunya, Departament Agricultura, Ramaderia, Pesca i Alimentació, Generalitat de Catalunya. [in Catalan] [[pdf]](https://agricultura.gencat.cat/web/.content/01-departament/politiques-dones/enllacos-documents/fitxers-binaris/dona-industria-alimentaria-informe-nov2020.pdf)
 
@@ -55,4 +55,4 @@ Lado, S. (2021). Desigualtat, individualisme i col.lectivisme, DUGiDocs. [in Cat
 
 Lado, S. (2021). Externalització de serveis públics: la casuística de l’administració local, DUGiDocs. [in Catalan] [[pdf]](https://dugi-doc.udg.edu/bitstream/handle/10256/19440/Lado-Franco%20%28ADE%29.pdf?sequence=1&isAllowed=y) 
 
-Blanco, M.; Ventura, J; Lado, S.; Sastre, M.; Callado, J. F.; Xabadia, A.; Marquès, P. (2019). Girona 100 SA 2019, KPMG i Càtedra de l'Empresa Familiar. [in Catalan] [[pdf]](https://assets.kpmg/content/dam/kpmg/es/pdf/2019/07/InformeGirona100_2019.pdf)
+Blanco, M.; Ventura, J; Lado, S.; Sastre, M.; Callado, J. F.; Xabadia, A.; Marquès, P. (2019). Girona 100 SA 2019, KPMG i Càtedra Cambra de l’Empresa Familiar. [in Catalan] [[pdf]](https://assets.kpmg/content/dam/kpmg/es/pdf/2019/07/InformeGirona100_2019.pdf)
