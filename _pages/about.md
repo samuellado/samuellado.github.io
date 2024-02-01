@@ -59,6 +59,6 @@ Blanco, M.; Ventura, J; Lado, S.; Sastre, M.; Callado, J. F.; Xabadia, A.; Marqu
 
 ## Work in progress
 
-Subsidised school meals and child well-being: the case of Barcelona (with Sara Ayllón).
+Subsidised school meals and children educational achievement: the case of Barcelona (with Sara Ayllón).
 
 Examining the impact of school-meal programmes on children: A meta-analysis (with Sara Ayllón).
