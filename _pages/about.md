@@ -27,9 +27,9 @@ Ayllón, S.; Lado, S. (2022). Food hardship in the US during the pandemic: What 
 
 ## Chapters in edited volumes
 
-Ayllón, S.; Lado, S.; Symeonaki, M. (2023). Digitally disengaged and digitally unconfident children in Europe in Understanding the everyday digital lives of children and young people, ed. H. B. Holmarsdottir, I. Seland, C. Hyggen, M. Roth, Palgrave Macmillan, pp. 27-55 (chapter 2). [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-46929-9_2)
+Ayllón, S.; Lado, S.; Symeonaki, M. (2024). Digitally disengaged and digitally unconfident children in Europe in Understanding the everyday digital lives of children and young people, ed. H. B. Holmarsdottir, I. Seland, C. Hyggen, M. Roth, Palgrave Macmillan, pp. 27-55 (chapter 2). [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-46929-9_2)
 
-Ayllón, S.; Brugarolas, P.; Lado, S. (2023). ICT use and children’s self-reported life satisfaction in Understanding the everyday digital lives of children and young people, ed. H. B. Holmarsdottir, I. Seland, C. Hyggen, M. Roth, Palgrave Macmillan, pp. 239-279 (chapter 9). [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-46929-9_9) 
+Ayllón, S.; Brugarolas, P.; Lado, S. (2024). ICT use and children’s self-reported life satisfaction in Understanding the everyday digital lives of children and young people, ed. H. B. Holmarsdottir, I. Seland, C. Hyggen, M. Roth, Palgrave Macmillan, pp. 239-279 (chapter 9). [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-46929-9_9) 
 
 ## Reports
 
