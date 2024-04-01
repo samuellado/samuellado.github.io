@@ -61,7 +61,7 @@ Blanco, M.; Ventura, J; Lado, S.; Sastre, M.; Callado, J. F.; Xabadia, A.; Marqu
 
 Subsidised school meals and children educational achievement: the case of Barcelona (with Sara Ayllón).
 
-Examining the impact of school-meal programmes on children: A meta-analysis (with Sara Ayllón).
+The causal impact of school-meal programmes: A meta-analysis (with Sara Ayllón).
 
 Teleworking and childcare across Europe: Is there a childcare digital divide? (with Sara Ayllón, Pablo Brugarolas and Enza Simeone)
 
