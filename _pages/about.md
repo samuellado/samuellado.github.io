@@ -19,9 +19,9 @@ Subsidised school meals and children educational achievement: the case of Barcel
 
 The causal impact of school-meal programmes: A meta-analysis (with Sara Ayllón).
 
-Teleworking and childcare across Europe: Is there a childcare digital divide? (with Sara Ayllón, Pablo Brugarolas and Enza Simeone)
+Teleworking and childcare across Europe: Is there a childcare digital divide? (with Sara Ayllón, Pablo Brugarolas and Enza Simeone).
 
-New estimates for inequality of opportunity in Europe using elastic net algorithms (with Sara Ayllón and Pablo Brugarolas)
+New estimates for inequality of opportunity in Europe using elastic net algorithms (with Sara Ayllón and Pablo Brugarolas).
 
 ## Contact information
 
