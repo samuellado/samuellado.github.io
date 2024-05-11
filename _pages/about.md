@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## About me
 
-I am a PhD student and research fellow at the Department of Economics at the University of Girona working under the supervision of [Sara Ayllón](http://www.saraayllon.eu/). 
+I am a PhD student and research fellow at the Department of Economics at the Universitat de Girona working under the supervision of [Sara Ayllón](http://www.saraayllon.eu/). 
 
 My research interests include poverty, inequality, applied microeconomics, public policy evaluation, labour economics, and public economics.
 
@@ -25,11 +25,8 @@ New estimates for inequality of opportunity in Europe using elastic net algorith
 
 ## Contact information
 
-[samuel.lado@udg.edu]
-
+[samuel.lado@udg.edu] 
 Department of Economics, Universitat de Girona
-
 C/Universitat de Girona, 10
-
 17003 Girona, Spain
 
