@@ -9,8 +9,9 @@ redirect_from:
 ---
 ## About me
 
-Hi there! 
+I am a PhD student and research fellow at the Department of Economics at the University of Girona working under the supervision of [Sara Ayllón](http://www.saraayllon.eu/). 
 
-My name is Samuel, and I am an economist from Girona, Spain. I am currently a PhD candidate in Economics at the University of Girona working under the supervision of [Sara Ayllón](http://www.saraayllon.eu/). I hold a MSc in Economic Analysis and two BSc degrees, one in Economics and the other in Business Administration and Management.
+My research interests include poverty, inequality, applied microeconomics, public policy evaluation, labour economics, and public economics.
 
-My research interests include poverty, inequality, applied microeconomics, public policy evaluation, labour economics, and public economics. If you share these interests or are interested in collaborating, please don't hesitate to reach out to me via email at samuel.lado@udg.edu. You can also follow me on [Twitter](https://twitter.com/samuellf11), where I share updates about my work. 
+
+
