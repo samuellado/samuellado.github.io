@@ -25,7 +25,7 @@ New estimates for inequality of opportunity in Europe using elastic net algorith
 
 ## Contact information
 
-[samuel.lado@udg.edu](samuel.lado@udg.edu)
+[samuel.lado@udg.edu]
 
 Department of Economics, Universitat de Girona
 
