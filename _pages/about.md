@@ -23,5 +23,10 @@ Teleworking and childcare across Europe: Is there a childcare digital divide? (w
 
 New estimates for inequality of opportunity in Europe using elastic net algorithms (with Sara Ayllón and Pablo Brugarolas)
 
+## Contact information
 
+samuel.lado@udg.edu
+Department of Economics, Universitat de Girona
+C/Universitat de Girona, 10
+17003 Girona, Spain
 
