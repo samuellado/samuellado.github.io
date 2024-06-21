@@ -17,7 +17,7 @@ My research interests include poverty, inequality, applied microeconomics, publi
 
 Subsidised school meals and children educational achievement: the case of Barcelona (with Sara Ayllón).
 
-The causal impact of school-meal programmes: A meta-analysis (with Sara Ayllón).
+The causal impact of school-meal programmes in developed economies: A meta-analysis (with Sara Ayllón).
 
 Teleworking and childcare across Europe: Is there a childcare digital divide? (with Sara Ayllón, Pablo Brugarolas and Enza Simeone).
 
