@@ -15,7 +15,7 @@ My research interests include poverty, inequality, applied microeconomics, publi
 
 ## Work in progress
 
-Subsidised school meals and children educational achievement: the case of Barcelona (with Sara Ayllón).
+Subsidised school meals and children educational achievement and well-being: the case of Barcelona (with Sara Ayllón).
 
 The causal impact of school-meal programmes in developed economies: A meta-analysis (with Sara Ayllón).
 
