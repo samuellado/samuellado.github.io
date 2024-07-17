@@ -9,8 +9,6 @@ redirect_from:
 ---
 ## About me
 
-![My Photo](images/profile1.jpg)
-
 I am a PhD student and research fellow at the Department of Economics at the Universitat de Girona working under the supervision of [Sara Ayllón](http://www.saraayllon.eu/). In January 2025, I will join the Institute for Social and Economic Research (ISER) at the University of Essex as a visiting PhD student.
 
 My research interests include poverty, inequality, applied microeconomics, public policy evaluation, labour economics, and public economics.
