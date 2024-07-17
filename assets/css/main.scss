@@ -10,6 +10,12 @@
  *
 */
 
+.author__avatar img {
+    width: 150px; /* Adjust as needed */
+    height: 150px; /* Adjust as needed */
+    border-radius: 0; /* Removes circular shape */
+}
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
