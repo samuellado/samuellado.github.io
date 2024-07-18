@@ -10,11 +10,14 @@
  *
 */
 .author__avatar img {
-    width: 150px; /* Adjust as needed */
-    height: 250px; /* Adjust as needed */
-    border-radius: 0; /* Removes circular shape */
-    object-fit: cover; /* Ensures the image fills the specified dimensions */
+    width: 150px !important; /* Adjust as needed */
+    height: 250px !important; /* Adjust as needed */
+    border-radius: 0 !important; /* Ensures no circular shape */
+    object-fit: cover !important; /* Ensures the image fills the specified dimensions */
+    display: block !important; /* Ensures the image is treated as a block element */
+    margin: 0 auto !important; /* Centers the image horizontally if it's inside a block-level container */
 }
+
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
