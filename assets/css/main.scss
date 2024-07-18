@@ -13,6 +13,7 @@
     width: 150px; /* Adjust as needed */
     height: 250px; /* Adjust as needed */
     border-radius: 0; /* Removes circular shape */
+    object-fit: cover; /* Ensures the image fills the specified dimensions */
 }
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
