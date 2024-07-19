@@ -19,7 +19,7 @@ The causal impact of school-meal programmes in developed economies: A meta-analy
 
 Subsidised school meals and children educational achievement and well-being: the case of Barcelona (with Sara Ayllón).
 
-The impact of free school meals on parental employment: the case of England
+The impact of free school meals on parental employment: the case of England.
 
 Teleworking and childcare across Europe: Is there a childcare digital divide? (with Sara Ayllón, Pablo Brugarolas and Enza Simeone).
 
