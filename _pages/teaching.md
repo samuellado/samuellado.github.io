@@ -6,6 +6,11 @@ author_profile: true
 Teaching
 ======
 
+## 2024-2025
+
+- Topics of Applied Economics (Universitat de Girona)
+- Markets and Behaviour (Universitat Oberta de Catalunya)
+
 ## 2023-2024
 
 - Macroeconomics (Universitat de Girona)
