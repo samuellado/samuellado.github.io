@@ -23,8 +23,6 @@ The impact of free school meals on parental employment: the case of England.
 
 Teleworking and childcare across Europe: Is there a childcare digital divide? (with Sara Ayllón, Pablo Brugarolas and Enza Simeone).
 
-New estimates for inequality of opportunity in Europe using elastic net algorithms (with Sara Ayllón and Pablo Brugarolas).
-
 ## Contact information
 
 samuel.lado@udg.edu
