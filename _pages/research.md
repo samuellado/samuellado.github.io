@@ -8,8 +8,6 @@ Research
 
 ## Journal publications
 
-Ayllón, S.; Brugarolas, P.; Lado, S. (2024). New estimates for inequality of opportunity in Europe using elastic net algorithms (accepted for publication in _Applied Economics Letters_)
-
 Ayllón, S.; Holmarsdottir, H. B.; Lado, S. (2023). Digitally deprived children in Europe, _Child Indicators Research_, 16: 1315-1339. [[pdf]](https://link.springer.com/content/pdf/10.1007/s12187-022-10006-w.pdf?pdf=button%20sticky)
 
 - The COVID-19 pandemic has completely changed the need for internet connectivity and technological devices across the population, but especially among school-aged children. For a large proportion of pupils, access to a connected computer nowadays makes the difference between being able to keep up with their educational development and falling badly behind. This paper provides a detailed account of the digitally deprived children in Europe, according to the latest available wave of the European Union–Statistics on Income and Living Conditions (EU-SILC). We find that 5.4% of school-aged children in Europe are digitally deprived and that differences are large across countries. Children that cohabit with low-educated parents, in poverty or in severe material deprivation are those most affected.
