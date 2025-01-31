@@ -15,8 +15,6 @@ My research interests include poverty, inequality, applied microeconomics, publi
 
 ## Work in progress
 
-More than just lunch: School-meal subsidies and language proficiency (with Sara Ayllón).
-
 The causal impact of school-meal programmes in developed economies: A meta-analysis (with Sara Ayllón).
 
 Universal free school meals and work incentives: lessons from England.
