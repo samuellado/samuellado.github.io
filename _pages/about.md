@@ -15,11 +15,11 @@ My research interests include poverty, inequality, applied microeconomics, publi
 
 ## Work in progress
 
-The causal impact of school-meal programmes on children in developed economies: A meta-analysis (with Sara Ayllón).
-
 Universal free school meals and work incentives: lessons from England.
 
 - This paper analyses the effects of a transition from a means-tested to a universal school-meal programme on parental labour market outcomes. Using data from the UK Household Longitudinal Study, we document that the introduction of the Universal Infant Free School Meals (UIFSM) policy increased labour supply and reduced inactivity rates among mothers whose children were eligible, compared to when the same children were older, ineligible and required to meet eligibility criteria to receive free school meals. The effects are particularly pronounced for single mothers, those in households where the father is employed and those whose children were previously eligible under the means-tested scheme. In contrast, no significant effects are observed for fathers. Our findings suggest that the policy strengthens work incentives by removing the risk of losing access to free school meals when mothers enter employment.
+
+The causal impact of school-meal programmes on children in developed economies: A meta-analysis (with Sara Ayllón).
 
 Teleworking and childcare across Europe: Is there a childcare digital divide? (with Sara Ayllón, Pablo Brugarolas and Enza Simeone).
 
