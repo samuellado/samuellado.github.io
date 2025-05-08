@@ -21,6 +21,9 @@ Universal free school meals and work incentives: lessons from England.
 
 The causal impact of school-meal programmes on children in developed economies: A meta-analysis (with Sara Ayllón).
 
+- This paper is the first to meta-analyse the literature on the causal effects of school-meal programmes on children’s behavioural, health and educational outcomes in developed countries, while addressing potential publication bias and heterogeneity between studies. We create a sample of 2,821 estimates from 42 studies and gather 59 aspects reflecting the context in which each estimate was obtained, including type of data, programme characteristics, student population, estimation method and publication quality, among others. We employ both linear and non-linear techniques to correct for publication bias and we use Bayesian Model Averaging to study heterogeneous effects and address model uncertainty. The results are consistent with a modest publication bias, primarily concentrated among studies focused on the educational domain. Once this bias is accounted for, we find that school-meal programmes in high-income economies have minimal impact on students’ health and educational outcomes. In contrast, we observe small positive effects in the behavioural domain, although the effect size is negligible. Our heterogeneity analysis documents that means-tested and school-breakfast initiatives yield the greatest benefits for children’s outcomes.
+
+
 Teleworking and childcare across Europe: Is there a childcare digital divide? (with Sara Ayllón, Pablo Brugarolas and Enza Simeone).
 
 ## Contact information
