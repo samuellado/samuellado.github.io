@@ -6,6 +6,8 @@ author_profile: true
 Teaching
 ======
 
+## 
+
 Applied Economics Instruments (Universitat de Girona): academic years 2025/2026, 2024/2025, 2023/2024, 2022/2023, 2021/2022
 
 Macroeconomics (Universitat de Girona): academic year 2023/2024
