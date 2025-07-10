@@ -6,32 +6,18 @@ author_profile: true
 Teaching
 ======
 
-## 2024-2025
+Applied Economics Instruments (Universitat de Girona): academic years 2025/2026, 2024/2025, 2023/2024, 2022/2023, 2021/2022
 
-- Topics of Applied Economics (Universitat de Girona)
-- Markets and Behaviour (Universitat Oberta de Catalunya)
+Macroeconomics (Universitat de Girona): academic year 2023/2024
 
-## 2023-2024
+Topics in Applied Economics (Universitat de Girona): academic years 2022/2023, 2021/2022
 
-- Macroeconomics (Universitat de Girona)
-- Topics of Applied Economics (Universitat de Girona)
-- Markets and Behaviour (Universitat Oberta de Catalunya)
+International Economics (Universitat de Girona): academic year 2021/2022
 
-## 2022-2023
+Social Policies in the European Union (Universitat de Girona): academic year 2020/2021
 
-- Topics of Applied Economics (Universitat de Girona)
-- Markets and Behaviour (Universitat Oberta de Catalunya)
-- Tools of Applied Economics I (Universitat de Girona)
+Political Economy (Universitat de Girona): academic year 2020/2021
 
-## 2021-2022
+Markets and Behaviour (Universitat Oberta de Catalunya)
 
-- Tools of Applied Economics I (Universitat de Girona)
-- Topics of Applied Economics (Universitat de Girona)
-- International Economics (Universitat de Girona)
-- Microeconomics (Universitat Oberta de Catalunya)
-
-## 2020-2021
-
-- Tools of Applied Economics I (Universitat de Girona)
-- Social Policies in the European Union (Universitat de Girona)
-- Political Economy (Universitat de Girona)
+Microeconomics (Universitat Oberta de Catalunya)
