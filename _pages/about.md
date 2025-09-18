@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## About me
 
-I am a postdoctoral researcher fellow at the Department of Economics at the Universitat de Girona. I am also a member of the research group [Economics of Inequality and Poverty Analysis (EQUALITAS)](https://equalitas.es/). I obtained my PhD at the Universitat de Girona in 2025.
+I am a postdoctoral research fellow at the Department of Economics at the Universitat de Girona. I am also a member of the research group [Economics of Inequality and Poverty Analysis (EQUALITAS)](https://equalitas.es/). I obtained my PhD at the Universitat de Girona in 2025.
 
 My research interests include poverty, inequality, applied microeconomics, public policy evaluation, labour economics and public economics. In my PhD thesis, I examinated the impact of school-meal programmes on children's outcomes within the framework of the SCHOOL_MEALS project (further details are available on the project [webpage](http://www.saraayllon.eu/school_meals.html)). Additionally, I investigated how free school meals influence parental labour market outcomes.
 
