@@ -9,7 +9,7 @@ Research
 ## Work in progress and working papers
 
 
-Ayllón, S.; Lado, S. (2025). The causal Impact of school-Meal programmes on children in developed economies: A meta-Analysis, IZA Discussion Paper no. 18042, EQUALITAS Working Paper no. 90. [[pdf]](https://docs.iza.org/dp18042.pdf)) [[pdf]](https://equalitas.es/sites/default/files/2025-07/WP-90.pdf))
+Ayllón, S.; Lado, S. (2025). The causal Impact of school-Meal programmes on children in developed economies: A meta-Analysis, IZA Discussion Paper no. 18042, EQUALITAS Working Paper no. 90. [[pdf]](https://docs.iza.org/dp18042.pdf) [[pdf]](https://equalitas.es/sites/default/files/2025-07/WP-90.pdf)
 
 Ayllón, S.; Lado, S. (2025). More than just lunch: School-meal subsidies and language proficiency, IZA Discussion Paper no. 17631, EQUALITAS Working Paper no. 80. [[pdf]](https://docs.iza.org/dp17631.pdf) [[pdf]](https://equalitas.es/sites/default/files/2025-02/WP-80.pdf)
 
