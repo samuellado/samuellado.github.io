@@ -8,11 +8,11 @@ Teaching
 
 ## Universitat de Girona
 
-Applied Economics Instruments: 2025/2026, 2024/2025, 2023/2024, 2022/2023, 2021/2022
+Applied Economics Instruments: 2021/2022, 2022/2023, 2023/2024, 2024/2025, 2025/2026
 
 Macroeconomics: 2023/2024
 
-Topics in Applied Economics: 2022/2023, 2021/2022
+Topics in Applied Economics: 2021/2022, 2022/2023
 
 International Economics: 2021/2022
 
@@ -22,6 +22,6 @@ Political Economy: 2020/2021
 
 ## Universitat Oberta de Catalunya
 
-Markets and Behaviour: 2024/2025, 2023/2024, 2022/2023, 2021/2022
+Markets and Behaviour: 2021/2022, 2022/2023, 2023/2024, 2024/2025, 2025/2026
 
 Microeconomics: 2021/2022
