@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Samuel Lado"
 title_separator          : "-"
 name                     : &name "Samuel Lado"
-description              : &description "PhD student at the University of Girona"
+description              : &description "Postdoctoral researcher fellow"
 url                      : https://samuellado.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "samuellado/samuellado.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Samuel Lado"
   avatar           : "profile1.png"
-  bio              : "PhD student at the UdG"
+  bio              : "Postdoctoral researcher fellow"
   location         : "Girona, Catalonia, Spain"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=6S8fuMoAAAAJ&hl=ca"
