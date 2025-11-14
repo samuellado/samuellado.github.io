@@ -39,16 +39,3 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-
-/* === Force bigger profile image with no margins === */
-/* img[src$="profile1.png"] {
-/*  width: 400px !important;   /* make it big – change this number if you want */
-/*  height: auto !important;
-/*  max-width: none !important;
-
-/*  border-radius: 0 !important;  /* keep it non-round */
-
-/*  margin: 0 !important;
-/*  padding: 0 !important;
-/*  display: block;
-/*}
