@@ -39,3 +39,9 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.author__avatar img {
+  width: 250px;   /* ← change this number to make it bigger or smaller */
+  height: auto;
+  border-radius: 0;  /* keeps the picture square/rectangular */
+}
