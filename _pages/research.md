@@ -8,7 +8,7 @@ Research
 
 ## Work in progress and working papers
 
-### Job market paper
+### Job market paper:
 
 Ayllón, S.; Lado, S. (2025). More than just lunch: School-meal subsidies and language proficiency, IZA Discussion Paper no. 17631, EQUALITAS Working Paper no. 80. *Dissemination*: *[The Social Observatory, "La Caixa" foundation](https://elobservatoriosocial.fundacionlacaixa.org/en/-/becas-comedor-lengua-catalana)*. [[pdf]](https://docs.iza.org/dp17631.pdf) [[pdf]](https://equalitas.es/sites/default/files/2025-02/WP-80.pdf)
 
