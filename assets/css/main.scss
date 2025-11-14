@@ -39,19 +39,3 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-
-/* === Custom avatar size and no margins === */
-.author__avatar {
-  margin: 0 !important;      /* remove outer margin */
-  padding: 0 !important;     /* remove extra spacing */
-}
-
-.author__avatar img {
-  width: 320px;              /* make it bigger — adjust as needed */
-  height: auto;
-  border-radius: 0;          /* keep it square */
-  margin: 0 !important;      /* remove inner margin */
-  padding: 0 !important;     /* remove padding if any */
-  display: block;            /* removes tiny whitespace */
-}
-
