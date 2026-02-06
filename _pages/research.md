@@ -8,6 +8,10 @@ Research
 
 ## Work in progress 
 
+Universal free school meals and work incentives: Lessons from England 
+
+- This paper analyses the effects of a transition from a means-tested to a universal school-meal programme on parental labour market outcomes. Using data from the UK Household Longitudinal Study, we document that the introduction of the Universal Infant Free School Meals (UIFSM) policy — which provides free meals to children aged 4 to 7 — increased labour supply and reduced inactivity rates among mothers whose children were eligible for the programme, compared to when the same children were older, ineligible for universal free school meals by the programme's design, and therefore subject to means-tested school-meal subsidies. The effects are particularly pronounced for single mothers, those in households where the father is employed and those whose children received free school meals under the means-tested scheme before the introduction of the universal policy. In contrast, no significant effects are observed for fathers. Our findings suggest that the programme strengthens work incentives by removing the risk of losing access to free school meals when mothers enter employment.
+
 Minimum wage increases, collective bargaining, and job amenities (with Ferran Elias, Ruben Perez-Sanz, and Marc Riudavets-Barcons).
 
 Teleworking and childcare across Europe: Is there a childcare digital divide? (with Sara Ayllón, Pablo Brugarolas, and Enza Simeone).
@@ -17,10 +21,6 @@ Quina política ambiciosa i viable cal per al temps de migdia? (with Sara Aylló
 Estudio de caso sobre alimentación escolar: España (with Albert Arcarons, Sara Ayllón, Maria Blanquer, Clarisa Giamello, Gemma Salvador, and Jon San Vicente). Report for the School Meals Coalition. [in Spanish]
 
 ## Working papers
-
-Lado, S. (2025). Universal free school meals and work incentives: Lessons from England, mimeo.
-
-- This paper analyses the effects of a transition from a means-tested to a universal school-meal programme on parental labour market outcomes. Using data from the UK Household Longitudinal Study, we document that the introduction of the Universal Infant Free School Meals (UIFSM) policy — which provides free meals to children aged 4 to 7 — increased labour supply and reduced inactivity rates among mothers whose children were eligible for the programme, compared to when the same children were older, ineligible for universal free school meals by the programme's design, and therefore subject to means-tested school-meal subsidies. The effects are particularly pronounced for single mothers, those in households where the father is employed and those whose children received free school meals under the means-tested scheme before the introduction of the universal policy. In contrast, no significant effects are observed for fathers. Our findings suggest that the programme strengthens work incentives by removing the risk of losing access to free school meals when mothers enter employment.
 
 Ayllón, S.; Lado, S. (2025). More than just lunch: School-meal subsidies and language proficiency, IZA Discussion Paper no. 17631, EQUALITAS Working Paper no. 80 [submitted]. *Dissemination*: *[The Social Observatory, "La Caixa" foundation](https://elobservatoriosocial.fundacionlacaixa.org/en/-/becas-comedor-lengua-catalana)*, *[Nada es Gratis](https://nadaesgratis.es/admin/comedores-escolares-becas-y-resultados-educativos)*. [[pdf]](https://docs.iza.org/dp17631.pdf) [[pdf]](https://equalitas.es/sites/default/files/2025-02/WP-80.pdf)
 
