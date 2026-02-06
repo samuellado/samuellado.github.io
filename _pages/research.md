@@ -10,8 +10,6 @@ Research
 
 Minimum wage increases, collective bargaining, and job amenities (with Ferran Elias, Ruben Perez-Sanz, and Marc Riudavets-Barcons).
 
-Universal free school meals and work incentives: Lessons from England.
-
 Teleworking and childcare across Europe: Is there a childcare digital divide? (with Sara Ayllón, Pablo Brugarolas, and Enza Simeone).
 
 Quina política ambiciosa i viable cal per al temps de migdia? (with Sara Ayllón). Report for the Fundació Bofill. [in Catalan]
