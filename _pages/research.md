@@ -32,8 +32,6 @@ Ayllón, S.; Lado, S. (2025). The causal impact of school-meal programmes on chi
 
 Ayllón, S.; Brugarolas, P.; Lado, S. (2023). The level of inequality of opportunity in Spain: an estimation using Artificial Intelligence, Instituto de Estudios Fiscales. *Media coverage: [El Confidencial](https://www.elconfidencial.com/economia/2023-07-16/estudio-hacienda-constata-deterioro-meritocracia_3701234/?utm_source=twitter&utm_medium=social&utm_campaign=ECNocheAutomatico&s=08)*, *[El Confidencial](https://www.elconfidencial.com/economia/2023-08-22/desigualdad-igualda-oportunidades-ascensor-social_3721577/?utm_source=twitter&utm_medium=social&utm_campaign=ECExclusivo)*. [[pdf]](https://www.ief.es/docs/destacados/publicaciones/papeles_trabajo/2023_06.pdf)
 
-Ayllón, S.; Brugarolas, P.; Lado, S.; Simeone, E. (2023). Teleworking and childcare across Europe: Is there a childcare digital divide?, mimeo.
-
 ## Journal publications
 
 Ayllón, S.; Brugarolas, P.; Lado, S. (2024). New estimates for inequality of opportunity in Europe using elastic net algorithms, _Applied Economics Letters_, forthcoming. [[link]](https://www.tandfonline.com/doi/full/10.1080/13504851.2024.2424948)
