@@ -16,10 +16,6 @@ Minimum wage increases, collective bargaining, and job amenities (with Ferran El
 
 Teleworking and childcare across Europe: Is there a childcare digital divide? (with Sara Ayllón, Pablo Brugarolas, and Enza Simeone).
 
-Quina política ambiciosa i viable cal per al temps de migdia? (with Sara Ayllón). Report for the Fundació Bofill. [in Catalan]
-
-Estudio de caso sobre alimentación escolar: España (with Albert Arcarons, Sara Ayllón, Maria Blanquer, Clarisa Giamello, Gemma Salvador, and Jon San Vicente). Report for the School Meals Coalition. [in Spanish]
-
 ## Working papers
 
 Ayllón, S.; Lado, S. (2025). More than just lunch: School-meal subsidies and language proficiency, IZA Discussion Paper no. 17631, EQUALITAS Working Paper no. 80 [submitted]. *Dissemination*: *[The Social Observatory, "La Caixa" foundation](https://elobservatoriosocial.fundacionlacaixa.org/en/-/becas-comedor-lengua-catalana)*, *[Nada es Gratis](https://nadaesgratis.es/admin/comedores-escolares-becas-y-resultados-educativos)*. [[pdf]](https://docs.iza.org/dp17631.pdf) [[pdf]](https://equalitas.es/sites/default/files/2025-02/WP-80.pdf)
