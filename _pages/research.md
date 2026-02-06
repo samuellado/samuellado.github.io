@@ -34,7 +34,7 @@ Ayllón, S.; Brugarolas, P.; Lado, S. (2023). The level of inequality of opportu
 
 ## Journal publications
 
-Ayllón, S.; Brugarolas, P.; Lado, S. (2024). New estimates for inequality of opportunity in Europe using elastic net algorithms, _Applied Economics Letters_, forthcoming. [[link]](https://www.tandfonline.com/doi/full/10.1080/13504851.2024.2424948)
+Ayllón, S.; Brugarolas, P.; Lado, S. (2024). New estimates for inequality of opportunity in Europe using elastic net algorithms, _Applied Economics Letters_, 1-5. [[link]](https://www.tandfonline.com/doi/full/10.1080/13504851.2024.2424948)
 
 - This paper provides new estimates for inequality of opportunity (IOp) in Europe between 2005 and 2019, using data from EU-SILC and elastic net algorithms. We document three different trends: some countries showed significant improvement over time; others saw a notable increase in IOp; and yet others reversed the rise in inequality post-Great Recession. Importantly, our new machine-learning estimates show consistency with more established approaches.
 
