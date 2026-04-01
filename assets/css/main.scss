@@ -86,3 +86,19 @@
 .intro-image {
   flex-shrink: 0;
 }
+
+.intro-links {
+  margin-top: 1.25rem;
+  margin-bottom: 0;
+}
+
+.intro-links a {
+  display: inline-block;
+  margin-right: 0.85rem;
+  text-decoration: none;
+}
+
+.intro-links i {
+  font-size: 1.6rem;
+  vertical-align: middle;
+}
