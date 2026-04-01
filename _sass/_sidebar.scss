@@ -73,6 +73,10 @@
   display: flex;
   flex-wrap: wrap;
   align-items: flex-start;
+
+  @include breakpoint($large) {
+    display: block;
+  }
 }
 
 .author__avatar {
@@ -82,8 +86,8 @@
   // height: 36px;
 
   @include breakpoint($large) {
-    flex-basis: 280px;
-    width: 280px;
+    width: 100%;
+    max-width: 280px;
   }
 
   img {
