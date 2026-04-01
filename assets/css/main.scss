@@ -46,15 +46,3 @@
   max-width: 250px !important;
   border-radius: 0 !important;
 }
-
-@media (min-width: 64em) {
-  .layout--single .sidebar {
-    width: 320px !important;
-    padding-right: 1.5rem;
-  }
-
-  .layout--single .page {
-    width: calc(100% - 320px) !important;
-    float: right;
-  }
-}
