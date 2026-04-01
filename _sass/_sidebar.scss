@@ -76,14 +76,14 @@
 }
 
 .author__avatar {
-  flex: 0 0 140px;
-  width: 140px;
+  flex: 0 0 160px;
+  width: 160px;
   // set width only, for non-square avatars
   // height: 36px;
 
   @include breakpoint($large) {
-    flex-basis: 190px;
-    width: 190px;
+    flex-basis: 240px;
+    width: 240px;
   }
 
   img {
