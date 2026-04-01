@@ -8,7 +8,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About me
+About me
+======
 
 <img src="/images/profile1.png" alt="Samuel Lado" class="about-photo">
 
