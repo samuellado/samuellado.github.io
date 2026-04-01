@@ -40,7 +40,9 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.author__avatar img {
-  max-width: 220px;
+.author__avatar img,
+.author__avatar img.u-photo {
+  width: 220px !important;
+  max-width: 220px !important;
   border-radius: 0 !important;
 }
