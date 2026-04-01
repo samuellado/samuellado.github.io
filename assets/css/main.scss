@@ -48,14 +48,13 @@
 }
 
 @media (min-width: 64em) {
-  .sidebar {
+  .layout--single .sidebar {
     width: 320px !important;
+    padding-right: 1.5rem;
   }
 
-  .archive,
-  .page {
-    float: right;
+  .layout--single .page {
     width: calc(100% - 320px) !important;
-    padding-right: 2rem;
+    float: right;
   }
 }
