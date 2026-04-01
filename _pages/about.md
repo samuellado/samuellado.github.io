@@ -18,18 +18,17 @@ I am a postdoctoral research fellow at the Department of Economics at the Univer
 
 My research interests include poverty, inequality, applied microeconomics, public policy evaluation, labour economics and public economics. In my PhD thesis, I evaluated the impact of school-meal programmes on children's behaviour, health, and educational attainment, as well as on parental labour market outcomes. In doing so, I employed a wide range of quantitative methods, including meta-analytical techniques and causal inference methods. I did a research visit at the <a href="https://www.iser.essex.ac.uk/">Institute for Social and Economic Research (ISER)</a> at the University of Essex.
 
-<p class="intro-links">
-  <a href="https://www.linkedin.com/in/samuel-lado" aria-label="LinkedIn">
-    <i class="fab fa-linkedin" aria-hidden="true"></i>
-  </a>
-  <a href="https://scholar.google.com/citations?user=6S8fuMoAAAAJ&hl=ca" aria-label="Google Scholar">
-    <i class="ai ai-google-scholar" aria-hidden="true"></i>
-  </a>
-</p>
-
 </div>
 <div class="intro-image">
   <img src="/images/profile1.png" alt="Samuel Lado">
+  <p class="intro-links">
+    <a href="https://www.linkedin.com/in/samuel-lado" aria-label="LinkedIn">
+      <i class="fab fa-linkedin" aria-hidden="true"></i>
+    </a>
+    <a href="https://scholar.google.com/citations?user=6S8fuMoAAAAJ&hl=ca" aria-label="Google Scholar">
+      <i class="ai ai-google-scholar" aria-hidden="true"></i>
+    </a>
+  </p>
 </div>
 </div>
 
