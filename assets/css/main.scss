@@ -41,7 +41,7 @@
 @import "print";
 
 .author__avatar {
-  max-width: 260px !important;
+  max-width: 220px !important;
   width: 100% !important;
   margin: 0 auto 1rem auto !important;
 }
@@ -50,12 +50,8 @@
 .author__avatar img.u-photo {
   display: block !important;
   width: 100% !important;
-  max-width: 260px !important;
+  max-width: 220px !important;
   border-radius: 0 !important;
   margin: 0 auto !important;
   padding: 0 !important;
-}
-
-.sidebar {
-  width: 300px !important;
 }
