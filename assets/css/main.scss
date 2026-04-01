@@ -40,9 +40,18 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.author__avatar {
+  display: block !important;
+  width: 100% !important;
+  margin: 0 !important;
+}
+
 .author__avatar img,
 .author__avatar img.u-photo {
-  width: 220px !important;
-  max-width: 220px !important;
+  display: block !important;
+  width: 100% !important;
+  max-width: none !important;
   border-radius: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
