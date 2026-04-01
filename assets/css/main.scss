@@ -40,18 +40,22 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.author__avatar {
-  max-width: 220px !important;
-  width: 100% !important;
-  margin: 0 auto 1rem auto !important;
-}
-
 .author__avatar img,
 .author__avatar img.u-photo {
-  display: block !important;
-  width: 100% !important;
-  max-width: 220px !important;
+  width: 250px !important;
+  max-width: 250px !important;
   border-radius: 0 !important;
-  margin: 0 auto !important;
-  padding: 0 !important;
+}
+
+@media (min-width: 64em) {
+  .sidebar {
+    width: 320px !important;
+  }
+
+  .archive,
+  .page {
+    float: right;
+    width: calc(100% - 320px) !important;
+    padding-right: 2rem;
+  }
 }
