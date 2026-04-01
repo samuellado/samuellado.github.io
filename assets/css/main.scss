@@ -41,9 +41,9 @@
 @import "print";
 
 .author__avatar {
-  display: block !important;
+  max-width: 100% !important;
   width: 100% !important;
-  margin: 0 !important;
+  margin: 0 0 1rem 0 !important;
 }
 
 .author__avatar img,
@@ -57,5 +57,6 @@
 }
 
 .sidebar {
-  width: 320px !important;
+  width: 360px !important;
 }
+
