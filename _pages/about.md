@@ -11,7 +11,7 @@ redirect_from:
 About me
 ======
 
-<img src="/images/profile1.png" alt="Samuel Lado" class="author__avatar">
+<img src="/images/profile1.png" alt="Samuel Lado" class="intro-image">
 
 I am a postdoctoral research fellow at the Department of Economics at the Universitat de Girona and a member of the research group [Economics of Inequality and Poverty Analysis (EQUALITAS)](https://equalitas.es/). I obtained my PhD at the Universitat de Girona in September 2025.
 
