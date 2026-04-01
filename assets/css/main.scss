@@ -41,22 +41,21 @@
 @import "print";
 
 .author__avatar {
-  max-width: 100% !important;
+  max-width: 260px !important;
   width: 100% !important;
-  margin: 0 0 1rem 0 !important;
+  margin: 0 auto 1rem auto !important;
 }
 
 .author__avatar img,
 .author__avatar img.u-photo {
   display: block !important;
   width: 100% !important;
-  max-width: none !important;
+  max-width: 260px !important;
   border-radius: 0 !important;
-  margin: 0 !important;
+  margin: 0 auto !important;
   padding: 0 !important;
 }
 
 .sidebar {
   width: 300px !important;
 }
-
