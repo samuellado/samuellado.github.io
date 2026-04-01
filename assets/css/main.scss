@@ -56,3 +56,20 @@
   height: 200px;
   object-fit: cover;
 }
+
+.intro {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.intro-text {
+  flex: 1;
+}
+
+.intro-image img {
+  width: 200px;      /* adjust size */
+  height: 200px;
+  object-fit: cover;
+}
