@@ -16,7 +16,7 @@ About me
 
 I am a postdoctoral research fellow at the Department of Economics at the Universitat de Girona and a member of the research group <a href="https://equalitas.es/">Economics of Inequality and Poverty Analysis (EQUALITAS)</a>. I obtained my PhD at the Universitat de Girona in September 2025.
 
-My research interests include poverty, inequality, applied microeconomics, public policy evaluation, labour economics and public economics. In my PhD thesis, I evaluated the impact of school-meal programmes on children's behaviour, health, and educational attainment, as well as on parental labour market outcomes. In doing so, I employed a wide range of quantitative methods, including meta-analytical techniques and causal inference methods. I did a research visit at the <a href="https://www.iser.essex.ac.uk/">Institute for Social and Economic Research (ISER)</a> at the University of Essex.
+My research interests include poverty, inequality, applied microeconomics, public policy evaluation, labour economics and public economics. In my PhD thesis, I evaluated the impact of school-meal programmes on children's behaviour, health, and educational attainment, as well as on parental labour market outcomes. In doing so, I employed a wide range of quantitative methods, including meta-analytical techniques and causal inference methods. I did a research visit at the <a href="https://www.iser.essex.ac.uk/">Institute for Social and Economic Research (ISER)</a> at the University of Essex. Between May and July 2026, I will join the <a href="https://www.esomas-en.unito.it/do/home.pl">Department of Economics, Social Studies, Applied Mathematics and Statistics</a> at the University of Torino as a visiting postdoctoral researcher.
 
 </div>
 <div class="intro-image">
