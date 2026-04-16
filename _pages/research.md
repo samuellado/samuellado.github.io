@@ -18,7 +18,7 @@ Minimum wage increases, collective bargaining, and job amenities (with Ferran El
 
 Teleworking and childcare across Europe: Is there a childcare digital divide? (with Sara Ayllón, Pablo Brugarolas, and Enza Simeone).
 
-Estudio de caso sobre alimentacion escolar: Espa~na (with Albert Arcarons, Sara Ayllon, Maria Blanquer, Clarisa Giamello, Gemma Salvador, and Jon San Vicente). Report for the School Meals Coalition. [in Spanish]
+Estudio de caso sobre alimentación escolar: España (with Albert Arcarons, Sara Ayllón, Maria Blanquer, Clarisa Giamello, Gemma Salvador, and Jon San Vicente). Report for the School Meals Coalition. [in Spanish]
 
 ## Working papers
 
