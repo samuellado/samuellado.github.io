@@ -43,7 +43,7 @@ Ayllón, S.; Brugarolas, P.; Lado, S. (2023). The level of inequality of opportu
 
 ## Journal publications
 
-Ayllón, S.; Brugarolas, P.; Lado, S. (2024). New estimates for inequality of opportunity in Europe using elastic net algorithms, _Applied Economics Letters_, 1-5. [[link]](https://www.tandfonline.com/doi/full/10.1080/13504851.2024.2424948)
+Ayllón, S.; Brugarolas, P.; Lado, S. (2026). New estimates for inequality of opportunity in Europe using elastic net algorithms, _Applied Economics Letters_, 33(8): 1256-1260. [[link]](https://www.tandfonline.com/doi/full/10.1080/13504851.2024.2424948)
 
 <details>
 <summary>Abstract</summary>
