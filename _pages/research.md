@@ -17,6 +17,7 @@ This paper analyses the effects of a transition from a means-tested to a univers
 
 </details>
 
+
 The causal effects of mandatory gender equality plans (with Sara Ayllón and Bernat Remolins). 
 
 Minimum wage increases, collective bargaining, and job amenities (with Ferran Elias, Ruben Perez-Sanz, and Marc Riudavets-Barcons).
