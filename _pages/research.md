@@ -8,7 +8,7 @@ Research
 
 ## Work in progress 
 
-- Universal free school meals and work incentives: Lessons from England 
+Universal free school meals and work incentives: Lessons from England 
 
 <details>
 <summary>Abstract</summary>
@@ -18,6 +18,8 @@ This paper analyses the effects of a transition from a means-tested to a univers
 The causal effects of mandatory gender equality plans (with Sara Ayllón and Bernat Remolins). 
 
 Minimum wage increases, collective bargaining, and job amenities (with Ferran Elias, Ruben Perez-Sanz, and Marc Riudavets-Barcons).
+
+Labor market dynamics around childbirth: Evidence from Spanish administrative records (with Amaia Ayala-García, Laura Serra-Saurina, and José I. Silva)
 
 Teleworking and childcare across Europe: Is there a childcare digital divide? (with Sara Ayllón, Pablo Brugarolas, and Enza Simeone).
 
