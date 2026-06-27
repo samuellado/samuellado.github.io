@@ -7,11 +7,10 @@
    ========================================================================== */
 
 .intro {
-  display: flex;
-  flex-direction: column;
-  gap: 1.5em;
+  display: block;
 
-  @include breakpoint($x-large) {
+  @media (min-width: 1400px) {
+    display: flex;
     flex-direction: row;
     align-items: flex-start;
     gap: 2em;
@@ -27,9 +26,11 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  flex-shrink: 0;
+  margin-top: 1.5em;
 
-  @include breakpoint($x-large) {
+  @media (min-width: 1400px) {
+    margin-top: 0;
+    flex-shrink: 0;
     align-items: flex-end;
   }
 
@@ -40,7 +41,7 @@
     object-fit: cover;
     object-position: center;
 
-    @include breakpoint($x-large) {
+    @media (min-width: 1400px) {
       width: 200px;
       height: 200px;
     }
