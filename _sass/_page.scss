@@ -6,60 +6,41 @@
    Intro section (about page)
    ========================================================================== */
 
-.intro {
-  display: block;
+.about-intro {
+  @include clearfix;
 
-  @media (min-width: 1400px) {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    gap: 2em;
-  }
-}
-
-.intro-text {
-  flex: 1;
-  min-width: 0;
-}
-
-.intro-image {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin-top: 1.5em;
-
-  @media (min-width: 1400px) {
-    margin-top: 0;
-    flex-shrink: 0;
-    align-items: flex-end;
-  }
-
-  img {
-    width: 160px;
-    height: 160px;
-    border-radius: 50%;
-    object-fit: cover;
-    object-position: center;
+  &__image {
+    display: block;
+    text-align: center;
+    margin: 0 0 1.5em 0;
 
     @media (min-width: 1400px) {
-      width: 200px;
-      height: 200px;
+      float: right;
+      margin: 0 0 1em 2em;
+    }
+
+    img {
+      width: 180px;
+      height: 180px;
+      border-radius: 50%;
+      object-fit: cover;
+      object-position: center;
     }
   }
-}
 
-.intro-links {
-  margin-top: 0.6em;
-  text-align: center;
-  font-size: 1.4em;
+  &__links {
+    margin-top: 0.6em;
+    text-align: center;
+    font-size: 1.4em;
 
-  a {
-    margin: 0 0.3em;
-    text-decoration: none;
-    color: $primary-color;
+    a {
+      margin: 0 0.3em;
+      text-decoration: none;
+      color: $primary-color;
 
-    &:hover {
-      color: $link-color;
+      &:hover {
+        color: $link-color;
+      }
     }
   }
 }
