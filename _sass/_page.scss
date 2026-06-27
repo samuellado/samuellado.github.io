@@ -2,6 +2,69 @@
    SINGLE PAGE/POST
    ========================================================================== */
 
+/*
+   Intro section (about page)
+   ========================================================================== */
+
+.intro {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5em;
+
+  @include breakpoint($medium) {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 2em;
+  }
+}
+
+.intro-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.intro-image {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-shrink: 0;
+  order: -1;
+
+  @include breakpoint($medium) {
+    order: 0;
+    align-items: flex-end;
+  }
+
+  img {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+
+    @include breakpoint($medium) {
+      width: 200px;
+      height: 200px;
+    }
+  }
+}
+
+.intro-links {
+  margin-top: 0.6em;
+  text-align: center;
+  font-size: 1.4em;
+
+  a {
+    margin: 0 0.3em;
+    text-decoration: none;
+    color: $primary-color;
+
+    &:hover {
+      color: $link-color;
+    }
+  }
+}
+
 #main {
   @include container;
   @include clearfix;
