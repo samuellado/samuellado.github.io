@@ -30,6 +30,8 @@ Teleworking and childcare across Europe: Is there a childcare digital divide? (w
 
 ## Working papers
 
+Guixeras, X.; Garriga, A.; Ballester, R., Lado, S.; Velazco, J. (2026). Assessing the impact of urban sprawl on the public water supply in Spanish municipalities (2008–2016), mimeo [R&R Utilities Policy].
+
 Ayllón, S.; Lado, S. (2025). More than just lunch: School-meal subsidies and language proficiency, IZA Discussion Paper no. 17631, EQUALITAS Working Paper no. 80 [submitted]. *Dissemination*: *[The Social Observatory, "La Caixa" foundation](https://elobservatoriosocial.fundacionlacaixa.org/en/-/becas-comedor-lengua-catalana)*, *[Nada es Gratis](https://nadaesgratis.es/admin/comedores-escolares-becas-y-resultados-educativos)*. [[pdf]](https://docs.iza.org/dp17631.pdf) [[pdf]](https://equalitas.es/sites/default/files/2025-02/WP-80.pdf)
 
 <details>
