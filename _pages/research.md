@@ -9,14 +9,12 @@ Research
 ## Work in progress 
 
 Universal free school meals and work incentives: Lessons from England 
-
 <details>
 <summary>Abstract</summary>
 This paper analyses the effects of a transition from a means-tested to a universal school-meal programme on parental labour market outcomes. Using data from the UK Household Longitudinal Study, we document that the introduction of the Universal Infant Free School Meals (UIFSM) policy — which provides free meals to children aged 4 to 7 — increased labour supply and reduced inactivity rates among mothers whose children were eligible for the programme, compared to when the same children were older, ineligible for universal free school meals by the programme's design, and therefore subject to means-tested school-meal subsidies. The effects are particularly pronounced for single mothers, those in households where the father is employed and those whose children received free school meals under the means-tested scheme before the introduction of the universal policy. In contrast, no significant effects are observed for fathers. Our findings suggest that the programme strengthens work incentives by removing the risk of losing access to free school meals when mothers enter employment.
 </details>
 
 Labor market dynamics around childbirth: Evidence from Spanish administrative records (with Amaia Ayala-García, Laura Serra-Saurina, and José I. Silva)
-
 <details>
 <summary>Abstract</summary>
 This paper provides a flow-based account of how labor market states evolve around the birth of a first child in Spain. Using monthly administrative data, we track men and women across five states---full-time employment, part-time employment, registered unemployment, childcare-related non-affiliation (unpaid childcare leave), and other non-affiliation (no employment or benefit income)---over a window spanning the decade before and the decade after a first birth, and model the movements between states with a time-varying five-state Markov chain. Around childbirth, women's full-time employment falls sharply and persistently, with a transitory rise in unemployment and durable increases in part-time work and other non-affiliation. In contrast, men's employment distribution remains largely unchanged. Decomposing each gap into its monthly flows, we find that gender differences in job-finding into full-time employment, rather than separations from it, account for just over half of the full-time gender gap. These differences are already present before birth: over the decade preceding the birth of a first child, both genders' attachment to full-time work rises, and the gender gap in full-time employment widens steadily as birth approaches. We interpret the decomposition as a descriptive accounting exercise and not as evidence of the behavioral mechanisms underlying the gender gaps.
@@ -31,7 +29,11 @@ Teleworking and childcare across Europe: Is there a childcare digital divide? (w
 ## Working papers
 
 Guixeras, X.; Garriga, A.; Ballester, R., Lado, S.; Velazco, J. (2026). Assessing the impact of urban sprawl on the public water supply in Spanish municipalities (2008–2016), mimeo [R&R Utilities Policy].
-
+<details>
+<summary>Abstract</summary>
+Over the past fifteen years, the debate surrounding the management and provision of municipal public services has increasingly focused on the factors contributing to deficiencies in service delivery. This paper examines the period 2008-2016, which was characterised by the effects of the economic crisis, the implementation of an economic stimulus plan, and subsequent fiscal consolidation, to assess how urban fragmentation influences water supply deficits in Spanish municipalities. Sprawling urban areas, where population centres are dispersed and fragmented, often face distinct challenges in infrastructure development and resource management. Drawing on a comprehensive database of Spanish municipalities and employing econometric techniques, the analysis demonstrates the adverse impact of urban sprawl on public service provision. The results further show significant differences in urban configuration between provinces along the North Atlantic coast and those in Southern Spain. The former present higher levels of fragmentation, which are associated with greater deficiencies in public water provision.
+</details>
+  
 Ayllón, S.; Lado, S. (2025). More than just lunch: School-meal subsidies and language proficiency, IZA Discussion Paper no. 17631, EQUALITAS Working Paper no. 80 [submitted]. *Dissemination*: *[The Social Observatory, "La Caixa" foundation](https://elobservatoriosocial.fundacionlacaixa.org/en/-/becas-comedor-lengua-catalana)*, *[Nada es Gratis](https://nadaesgratis.es/admin/comedores-escolares-becas-y-resultados-educativos)*. [[pdf]](https://docs.iza.org/dp17631.pdf) [[pdf]](https://equalitas.es/sites/default/files/2025-02/WP-80.pdf)
 
 <details>
