@@ -33,6 +33,6 @@ slado@uic.es
 
 Faculty of Economics and Social Sciences, Universitat Internacional de Catalunya
 
-Immaculada, 22
+Carrer de la Immaculada, 22
 
 08017 Barcelona
