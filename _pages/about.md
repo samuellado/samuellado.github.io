@@ -29,10 +29,10 @@ My research interests include poverty, inequality, applied microeconomics, publi
 
 ## Contact information
 
-samuel.lado@udg.edu
+slado@uic.es
 
-Department of Economics, Universitat de Girona
+Faculty of Economics and Social Sciences, Universitat Internacional de Catalunya
 
-C/Universitat de Girona, 10 
+Immaculada, 22
 
-17003 Girona, Spain
+08017 Barcelona
