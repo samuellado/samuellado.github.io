@@ -15,10 +15,6 @@ This paper analyses the effects of a transition from a means-tested to a univers
 </details>
 
 Labor market dynamics around childbirth: Evidence from Spanish administrative records (with Amaia Ayala-García, Laura Serra-Saurina, and José I. Silva).
-<details>
-<summary>Abstract</summary>
-This paper provides a flow-based account of how labor market states evolve around the birth of a first child in Spain. Using monthly administrative data, we track men and women across five states---full-time employment, part-time employment, registered unemployment, childcare-related non-affiliation (unpaid childcare leave), and other non-affiliation (no employment or benefit income)---over a window spanning the decade before and the decade after a first birth, and model the movements between states with a time-varying five-state Markov chain. Around childbirth, women's full-time employment falls sharply and persistently, with a transitory rise in unemployment and durable increases in part-time work and other non-affiliation. In contrast, men's employment distribution remains largely unchanged. Decomposing each gap into its monthly flows, we find that gender differences in job-finding into full-time employment, rather than separations from it, account for just over half of the full-time gender gap. These differences are already present before birth: over the decade preceding the birth of a first child, both genders' attachment to full-time work rises, and the gender gap in full-time employment widens steadily as birth approaches. We interpret the decomposition as a descriptive accounting exercise and not as evidence of the behavioral mechanisms underlying the gender gaps.
-</details>
 
 The causal effects of mandatory gender equality plans (with Sara Ayllón and Bernat Remolins). 
 
