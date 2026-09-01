@@ -6,6 +6,16 @@ author_profile: false
 Teaching
 ======
 
+## Universitat Internacional de Catalunya
+
+Microeconomics: 2026/2027
+
+Industrial Organisation: 2026/2027
+
+Descriptive Data Analysis: 2026/2027
+
+Business Statistical Inference: 2026/2027
+
 ## Universitat de Girona
 
 Applied Economics Instruments: 2021/2022, 2022/2023, 2023/2024, 2024/2025, 2025/2026
