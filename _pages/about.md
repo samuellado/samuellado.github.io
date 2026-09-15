@@ -11,7 +11,7 @@ redirect_from:
 About me
 ======
 
-I am an Assistant Professor at the <a href="https://www.uic.es/en/faculty-economics-and-social-sciences">Faculty of Economics and Social Sciences</a> at the Universitat Internacional de Catalunya and a member of the research group <a href="https://equalitas.es/">Economics of Inequality and Poverty Analysis (EQUALITAS)</a>. I obtained my PhD at the Universitat de Girona in September 2025.
+I am an Assistant Professor at the <a href="https://www.uic.es/en/faculty-economics-and-social-sciences">Faculty of Economics and Social Sciences</a> at the Universitat Internacional de Catalunya and a member of the research group <a href="https://equalitas.es/">Economics of Inequality and Poverty Analysis (EQUALITAS)</a>. I received my PhD from the Universitat de Girona in September 2025, where I subsequently held a postdoctoral position.
 
 My research interests include poverty, inequality, applied microeconomics, public policy evaluation, labour economics and public economics. In my PhD thesis, I evaluated the impact of school-meal programmes on children's behaviour, health, and educational attainment, as well as on parental labour market outcomes. In doing so, I employed a wide range of quantitative methods, including meta-analytical techniques and causal inference methods. I completed a research visit to the <a href="https://www.iser.essex.ac.uk/">Institute for Social and Economic Research (ISER)</a> at the University of Essex and the <a href="https://www.esomas-en.unito.it/do/home.pl">Department of Economics, Social Studies, Applied Mathematics and Statistics (ESOMAS)</a> at the University of Torino. 
 
