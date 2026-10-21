@@ -17,6 +17,10 @@ This paper analyses the effects of a transition from a means-tested to a univers
 The causal effects of mandatory gender equality plans (with Sara Ayllón and Bernat Remolins). 
 
 Do minimum wages change non-wage working conditions? Evidence from collective agreements (with Ferran Elias, Rubén Pérez-Sanz, and Marc Riudavets-Barcons).
+<details>
+<summary>Abstract</summary>
+We study whether minimum-wage increases affect non-wage working conditions specified in collective agreements. Using administrative data on 1,114 Spanish province–sector bargaining units, we measure working hours, holidays, work–life balance, overtime, employment flexibility, training, social benefits, and safety. Exploiting differential exposure to Spain's 2017–2019 increases, we find little evidence of deterioration and rule out economically meaningful changes in hours, holidays, and employment flexibility. Descriptive evidence shows that most expiring agreements are replaced, yet new agreements generally retain existing terms. When no replacement is signed, automatic renewal and ultra-activity provide mechanisms for sustaining negotiated conditions.
+</details>
 
 Teleworking and childcare across Europe: Is there a childcare digital divide? (with Sara Ayllón, Pablo Brugarolas, and Enza Simeone).
 
