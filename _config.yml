@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Samuel Lado"
 title_separator          : "-"
 name                     : &name "Samuel Lado"
-description              : &description "Postdoctoral research fellow"
+description              : &description "Assistant Professor"
 url                      : https://samuellado.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "samuellado/samuellado.github.io"
@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Samuel Lado"
   avatar           : "profile1.png"
-  bio              : "Postdoctoral research fellow"
+  bio              : "Assistant Professor"
   location         : "Girona, Catalonia, Spain"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=6S8fuMoAAAAJ&hl=ca"
-  email            : "samuel.lado@udg.edu"
+  email            : "slado@uic.es"
   researchgate     : 
   uri              :
   bitbucket        :
