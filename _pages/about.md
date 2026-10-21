@@ -16,7 +16,7 @@ redirect_from:
     <p>My research interests include poverty, inequality, applied microeconomics, public policy evaluation, labour economics and public economics. In my PhD thesis, I evaluated the impact of school-meal programmes on children's behaviour, health, and educational attainment, as well as on parental labour market outcomes. In doing so, I employed a wide range of quantitative methods, including meta-analytical techniques and causal inference methods. I completed a research visit to the <a href="https://www.iser.essex.ac.uk/">Institute for Social and Economic Research (ISER)</a> at the University of Essex and the <a href="https://www.esomas-en.unito.it/do/home.pl">Department of Economics, Social Studies, Applied Mathematics and Statistics (ESOMAS)</a> at the University of Torino.</p>
   </div>
   <div class="intro-image">
-    <img src="/images/profile1.png" alt="Samuel Lado">
+    <img src="/images/profile1.jpg" alt="Samuel Lado">
     <p class="intro-links">
       <a href="https://www.linkedin.com/in/samuel-lado" target="_blank" rel="noopener" aria-label="LinkedIn" title="LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
       <a href="https://scholar.google.com/citations?user=6S8fuMoAAAAJ&amp;hl=ca" target="_blank" rel="noopener" aria-label="Google Scholar" title="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i></a>

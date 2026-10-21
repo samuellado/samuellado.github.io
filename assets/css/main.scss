@@ -141,3 +141,52 @@ details {
     padding-left: 1rem;
   }
 }
+
+/* Publicaciones */
+.pub-link {
+  display: inline-block;
+  font-size: 0.72em;
+  font-weight: 600;
+  line-height: 1.6;
+  padding: 0 0.6em;
+  margin-left: 0.15em;
+  border: 1px solid $primary-color;
+  border-radius: 999px;
+  color: $primary-color;
+  text-decoration: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  transition: background-color 0.2s ease, color 0.2s ease;
+
+  &:hover {
+    background-color: $primary-color;
+    color: #fff;
+    text-decoration: none;
+  }
+}
+
+.pub-note {
+  display: block;
+  font-size: 0.85em;
+  color: #666;
+  margin-top: 0.25rem;
+}
+
+/* Docencia */
+.teaching-table {
+  width: 100%;
+  font-size: 0.9em;
+
+  th {
+    text-align: left;
+    white-space: nowrap;
+  }
+
+  td:first-child {
+    font-weight: 600;
+  }
+
+  td:last-child {
+    color: #555;
+  }
+}
