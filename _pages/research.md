@@ -88,26 +88,3 @@ Ayllón, S.; Brugarolas, P.; Lado, S. (2024). **ICT use and children’s self-re
 <summary>Abstract</summary>
 In this chapter, we use the Children’s Worlds database to investigate how ICT affects children’s subjective well-being in Europe, and whether its use crowds out other activities, which could have an impact on how satisfied children are with their own lives. The survey queries 8, 10 and 12-year-old children regarding their daily routine and activities, use of time and the extent to which they agree with several statements. The questionnaire also includes information on their social, economic and demographic background and, most importantly for our research, their self-assessed well-being and thoughts on ICT usage. First, we find that a higher frequency of playing electronic games, using social media and having internet access and/or a mobile phone is positively associated with overall subjective well-being. Second, we find no evidence of any crowd-out effects – i.e. children who spend more time with digital devices do not report that they devote any less time to other activities. Finally, we document the fact that the use of digital technologies is positively related to satisfaction with the amount of free time they have and with their use of time. These results are generally not consistent with the main takeaways from causal studies which highlights the importance of further research on this area.
 </details>
-
-## Reports
-
-Arcarons, A.; Ayllón, S.; Blanquer, M.; Giamello, C.; Lado, S.; Lafuente, M.; Salvador, G.; San Vicente, J. (2026). **School Meals Case Study: Spain** [Estudio de caso sobre alimentación escolar: España], *London School of Hygiene and Tropical Medicine*.
-
-Ayllón, S.; Brugarolas, P.; Lado, S. (2022). **La transmisión intergeneracional de la pobreza y la desigualdad de oportunidades en España**, *Ministerio de Derechos Sociales y Agenda 2030*. [in Spanish]
-<span class="pub-note">Media coverage: <a href="https://www.abc.es/economia/mitad-ninos-espana-abuelos-migrantes-vive-riesgo-20230629141832-vi.html" target="_blank" rel="noopener">ABC</a>, <a href="https://www.elcorreo.com/economia/mitad-ninos-espana-abuelos-migrantes-vive-riesgo-20230629121511-vi.html" target="_blank" rel="noopener">El Correo</a>, <a href="https://www.lasprovincias.es/economia/mitad-ninos-espana-abuelos-migrantes-vive-riesgo-20230629121511-vi.html" target="_blank" rel="noopener">Las Provincias</a>, <a href="https://www.europapress.es/videos/video-mitad-ninos-espana-abuelos-migrantes-vive-riesgo-pobreza-20230629140821.html" target="_blank" rel="noopener">Europa Press</a>.</span>
-
-Sánchez, C.; Marquès, P.; Lado, S.; Bikfalvi, A. (2022). **Guia de bones pràctiques per a la igualtat de gènere a la indústria agroalimentària**, *Departament d'Acció Climàtica, Alimentació i Agenda Rural, Generalitat de Catalunya*. [in Catalan]
-
-Sánchez, C.; Marquès, P.; Lado, S.; Lloveras, N. (2021). **La dona a la indústria alimentària a Catalunya**, *Departament d'Agricultura, Ramaderia, Pesca i Alimentació, Generalitat de Catalunya*. [in Catalan]
-
-## Other publications
-
-Seland, I.; Aldrich, R.; Ayllón, S.; Lado, S.; et al. (2022). **Understanding children and young people as digital citizens**, *DigiGen Working Paper Series* no. 12.
-
-Parsanoglou, D.; Mifsud, L.; Ayllón, S.; Lado, S.; et al. (2022). **Combining innovative methodological tools to approach digital transformations in leisure among children and young people**, *DigiGen Working Paper Series* no. 9.
-
-Ayllón, S.; Casamassima, G.; Drossel, K.; Eickelmann, B.; Hyggen, C.; Lado, S.; Port, S.; Broekstra, N. (2021). **Digital diversity across Europe**, *DigiGen Policy Brief*.
-
-Ayllón, S.; Barbovschi, M.; Casamassima, G.; Lado, S.; et al. (2020). **ICT usage across Europe. A literature review and an overview of existing data**, *DigiGen Working Paper Series* no. 2.
-
-Blanco, M.; Ventura, J.; Lado, S.; Sastre, M.; Callado, J. F.; Xabadia, A.; Marquès, P. (2019). **Girona 100 SA 2019**, *KPMG i Càtedra Cambra de l'Empresa Familiar*. [in Catalan]
