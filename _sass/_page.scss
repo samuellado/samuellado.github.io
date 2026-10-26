@@ -48,6 +48,10 @@
 #main {
   @include container;
   @include clearfix;
+  /* body is a flex column (sticky footer): without an explicit width a flex
+     item with auto side margins shrinks to its content and ends up centred
+     on pages with short lines (e.g. Teaching). max-width still caps it. */
+  width: 100%;
   margin-top: 2em;
   /* same gap below the content as the footer's inner top padding */
   margin-bottom: 2em;
