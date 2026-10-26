@@ -87,11 +87,10 @@
       white-space: nowrap;
     }
 
-    /* On narrow screens lay the links out as two even columns */
+    /* On narrow screens lay the links out as two equal-width columns */
     @media (max-width: #{$medium - 1px}) {
       display: grid;
-      grid-template-columns: repeat(2, max-content);
-      column-gap: 1.5em;
+      grid-template-columns: repeat(2, 1fr);
     }
   }
 }
