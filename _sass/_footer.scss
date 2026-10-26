@@ -9,12 +9,8 @@
   margin-right: 0;
   width: 100%;
   clear: both;
-  /* sticky footer fix start */
-  position: absolute;
-  bottom: 0em;
-  height: auto;
-  /* sticky footer fix end */
-  margin-top: 3em;
+  /* sticky footer: pushes itself to the bottom of the flex column body */
+  margin-top: auto;
   color: mix(#fff, $gray, 25%);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -27,9 +23,9 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 2em;
+    margin-top: 0;
     max-width: 100%;
-    padding: 0 1em 2em;
+    padding: 2em 1em 2em;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -53,12 +49,17 @@
   }
 }
 
+/* vertical rhythm inside the footer: between link rows and before copyright */
+$footer-gap: 0.75em;
+
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
 }
 
 .page__footer-follow {
+  margin-bottom: $footer-gap;
+
   ul {
     margin: 0;
     padding: 0;
@@ -66,13 +67,12 @@
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    gap: 0.5em 1.5em;
+    gap: $footer-gap 1.5em;
   }
 
   li {
     display: block;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding: 0;
     font-family: $sans-serif-narrow;
     font-size: $type-size-6;
     text-transform: uppercase;
